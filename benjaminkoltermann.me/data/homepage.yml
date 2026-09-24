@@ -1,3 +1,8 @@
+# page title
+head:
+  title: "Benjamin Koltermann"
+  description: "Benjamin Koltermann — cloud and Kubernetes engineer, CTF player, and security enthusiast."
+
 # showcase
 showcase:
   enable: true
